@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\PROYECTO VS NET\\minimalApi\\minimalApi\\wwwroot\\actor\\35eef47d-8723-4965-a765-95aa838c4bce.png",
+      "PackagePath": "staticwebassets\\actor\\35eef47d-8723-4965-a765-95aa838c4bce.png"
+    },
+    {
+      "Id": "C:\\PROYECTO VS NET\\minimalApi\\minimalApi\\wwwroot\\actor\\6fd49334-383b-42d2-8898-8bc555302a29.svg",
+      "PackagePath": "staticwebassets\\actor\\6fd49334-383b-42d2-8898-8bc555302a29.svg"
+    },
+    {
+      "Id": "C:\\PROYECTO VS NET\\minimalApi\\minimalApi\\wwwroot\\actor\\8128ce04-762a-4cb7-847b-1ac58405197d.svg",
+      "PackagePath": "staticwebassets\\actor\\8128ce04-762a-4cb7-847b-1ac58405197d.svg"
+    },
+    {
+      "Id": "C:\\PROYECTO VS NET\\minimalApi\\minimalApi\\wwwroot\\actor\\8de31f16-8c9a-4726-af61-cc0d2f36c0fe.png",
+      "PackagePath": "staticwebassets\\actor\\8de31f16-8c9a-4726-af61-cc0d2f36c0fe.png"
+    },
+    {
+      "Id": "C:\\PROYECTO VS NET\\minimalApi\\minimalApi\\wwwroot\\actor\\9aa39d07-91d4-423f-a788-9e327df65b54.png",
+      "PackagePath": "staticwebassets\\actor\\9aa39d07-91d4-423f-a788-9e327df65b54.png"
+    },
+    {
+      "Id": "C:\\PROYECTO VS NET\\minimalApi\\minimalApi\\wwwroot\\actor\\b7e3cad8-9df6-4783-82db-b21b74d0aaa5.gif",
+      "PackagePath": "staticwebassets\\actor\\b7e3cad8-9df6-4783-82db-b21b74d0aaa5.gif"
+    },
+    {
+      "Id": "C:\\PROYECTO VS NET\\minimalApi\\minimalApi\\wwwroot\\pelicula\\2fa84f0f-9b8e-4bdd-9359-5d65fb25c1db.gif",
+      "PackagePath": "staticwebassets\\pelicula\\2fa84f0f-9b8e-4bdd-9359-5d65fb25c1db.gif"
+    },
+    {
+      "Id": "C:\\PROYECTO VS NET\\minimalApi\\minimalApi\\wwwroot\\pelicula\\4e62974d-cb3d-42e5-9a2d-35d1495e41a8.gif",
+      "PackagePath": "staticwebassets\\pelicula\\4e62974d-cb3d-42e5-9a2d-35d1495e41a8.gif"
+    },
+    {
+      "Id": "C:\\PROYECTO VS NET\\minimalApi\\minimalApi\\wwwroot\\pelicula\\b240ab47-8b82-4c20-a8f2-d35452f1d8d7.gif",
+      "PackagePath": "staticwebassets\\pelicula\\b240ab47-8b82-4c20-a8f2-d35452f1d8d7.gif"
+    },
+    {
+      "Id": "C:\\PROYECTO VS NET\\minimalApi\\minimalApi\\wwwroot\\pelicula\\bcace43e-c870-4643-bf38-1c5d0c4eb9c2.gif",
+      "PackagePath": "staticwebassets\\pelicula\\bcace43e-c870-4643-bf38-1c5d0c4eb9c2.gif"
+    },
+    {
+      "Id": "C:\\PROYECTO VS NET\\minimalApi\\minimalApi\\wwwroot\\pelicula\\c655ee8a-0f33-4548-8386-1d8b68ce2943.gif",
+      "PackagePath": "staticwebassets\\pelicula\\c655ee8a-0f33-4548-8386-1d8b68ce2943.gif"
+    },
+    {
+      "Id": "C:\\PROYECTO VS NET\\minimalApi\\minimalApi\\wwwroot\\pelicula\\dd9c9f28-4144-4e7a-9a10-d6e3a847f96f.gif",
+      "PackagePath": "staticwebassets\\pelicula\\dd9c9f28-4144-4e7a-9a10-d6e3a847f96f.gif"
+    },
+    {
+      "Id": "C:\\PROYECTO VS NET\\minimalApi\\minimalApi\\wwwroot\\pelicula\\e4709bb7-360d-4807-ae7c-add9df0794ae.gif",
+      "PackagePath": "staticwebassets\\pelicula\\e4709bb7-360d-4807-ae7c-add9df0794ae.gif"
+    },
+    {
+      "Id": "C:\\PROYECTO VS NET\\minimalApi\\minimalApi\\wwwroot\\pelicula\\fcc88c62-9cc1-4179-8cc9-8dba6bc75e30.gif",
+      "PackagePath": "staticwebassets\\pelicula\\fcc88c62-9cc1-4179-8cc9-8dba6bc75e30.gif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.minimalApi.props",
+      "PackagePath": "build\\minimalApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.minimalApi.props",
+      "PackagePath": "buildMultiTargeting\\minimalApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.minimalApi.props",
+      "PackagePath": "buildTransitive\\minimalApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.minimalApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
